@@ -46,3 +46,7 @@ table {
 a {
     color: lightblue;
 }
+.footer {
+    text-align: center;
+    padding-top: 10px;
+}
