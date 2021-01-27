@@ -31,7 +31,6 @@ body, html {
 h2 {
     position: relative;
     text-align: center;
-    margin-top: 50px;
     font-size: 40px;
 }
 th {
@@ -52,4 +51,4 @@ a {
 .footer {
     text-align: center;
 }
-/* v0.5 */
+/* v0.6 */
